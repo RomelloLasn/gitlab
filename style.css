@@ -1,0 +1,15 @@
+.ylarida{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 16px;
+
+}
+.ylarida2{
+
+
+    background-color: #fff;
+    padding: 4px 24px 16px;
+    backdrop-filter: blur(16px);
+
+}
